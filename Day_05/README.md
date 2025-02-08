@@ -1,0 +1,14 @@
+100-Days_Of_Code
+
+DAY_05: For Loop, Range and Code Block
+
+OBJECTIVE:
+
+
+NEW THINGS I LEARNED:
+
+
+EXERCISES:
+
+
+PROJECT OF THE DAY:
