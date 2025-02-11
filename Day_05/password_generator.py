@@ -28,9 +28,9 @@ if number_of_alphabets > 0 and number_of_symbols > 0 and number_of_digits > 0:
 	for digit in range(0, number_of_digits):
 		random_password.append(random.choice(digits))
 
-	print(random_password)
+	print('['+','.join(random_password)+']')
 	random.shuffle(random_password)
-	print(random_password)
+	print('['+','.join(random_password)+']')
 
 	for a in random_password:
 		password += a
