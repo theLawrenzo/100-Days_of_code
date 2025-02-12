@@ -1,0 +1,18 @@
+100-Days_Of_Code
+
+DAY_07 - Build a Hangman Game
+
+
+OBJECTIVE:
+
+
+NEW THINGS LEARNED:
+
+
+
+EXERCISES:
+
+
+
+PROJECT OF THE DAY:
+
