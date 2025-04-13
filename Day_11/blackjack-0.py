@@ -11,5 +11,8 @@ if play_request == 'y':
 
     print(user_cards)
     print(comp_cards)
+
+    if sum(user_cards) == 21:
+        print("You win! You got a Blackjack")
 else:
 	print('\n')
